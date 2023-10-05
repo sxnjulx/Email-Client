@@ -1,0 +1,8 @@
+Official:Janith,kkajskumarasinghe@gmail.com,LOkka
+Personal:Sadisha,shadiiii,sadishakeshani@gamil.com,1999/09/29
+Official_Friend: havinggo,havinggoadvertising@gmail.com,CEO,2019/09/27
+Personal:Haritha,josh,harithakavishka99@gmail.com,1999/08/14
+Personal:Mindula,malli,mindulakumarasinghe@gmail.com,1999/09/29
+Personal:Amila,amila malli,amilakasun2000@gmail.com,2000/09/29
+Official_Friend:Sanjula,sanjulakumarasinghe@gmail.com,manager,1999/09/29
+Officail_Friend:Sanjulakumarasinghe,sanjulakumarasinghe@gmail.com,manger 2nd,1998/08/24
